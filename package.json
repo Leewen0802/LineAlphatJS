@@ -9,11 +9,11 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/alfathdirk/LineAlphatJS.git"
+    "url": "https://github.com/Leewen0802/LineAlphatJS.git"
   },
   "author": {
-    "name": "alfathdirk",
-    "email": "alfathdirk@gmail.com"
+    "name": "Leewen0802",
+    "email": "leewen0802888@gmail.com"
   },
   "license": "MIT",
   "devDependencies": {
